@@ -148,7 +148,7 @@ class Config implements \ArrayAccess
     /**
      * 获取yaconf配置
      * @access public
-     * @param  string    $name 配置参数名
+     * @param  string    $name 配置参数名5
      * @param  mixed     $default   默认值
      * @return mixed
      */
